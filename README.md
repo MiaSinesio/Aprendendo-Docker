@@ -10,12 +10,9 @@ Atividade final proposta pela DIO no último módulo sobre o que é Docker. Ness
 ### Simulação de Comportamentos
 - Recriar funcionalidades similares a `math.floor` e `math.random`
 - Implementar algoritmo que imita uma randomização (usando timestamp)
-- Gerenciamento de frases armazenadas em variáveis
 
-### Prática com Docker
-- Aplicar conceitos aprendidos em casos práticos
-- Traduzir teoria em implementação concreta
-
+### Prática com Docker 
+- Aplicar conceitos em testes práticos
 
 
 
